@@ -1,0 +1,22 @@
+{
+  "name": "grokking-algorithms",
+  "version": "1.0.0",
+  "description": "Collection of various algorithms implemented in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciandmnd/grokking-algorithms.git"
+  },
+  "author": "Marcian Diamond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciandmnd/grokking-algorithms/issues"
+  },
+  "homepage": "https://github.com/marciandmnd/grokking-algorithms#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
